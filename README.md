@@ -16,7 +16,7 @@ Tasks are stored locally using browser memory (`localStorage`) and persist acros
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live project]([https://github.com/sepinoodl/Todo-list.git](https://sepinoodl.github.io/Todo-list/))
+👉 [Click here to view the live project](https://sepinoodl.github.io/Todo-list/)
 
 ## 🛠️ Technologies Used
 
