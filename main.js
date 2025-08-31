@@ -88,3 +88,4 @@ function deleteTodo(id) {
 function updateLocalStorage() {
   localStorage.setItem("todos", JSON.stringify(todosArray));
 }
+
